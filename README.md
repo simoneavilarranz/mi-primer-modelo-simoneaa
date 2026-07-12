@@ -2,7 +2,7 @@
 
 ## Diagrama de clase  
 
-```classDiagram
+classDiagram
     class MiPrimerModelo {
         -String nombre
         -String apellido
@@ -17,7 +17,6 @@
         +int getAñoNacimiento()
         +int getEdad()
     }
-```
 
 ## Testing
 
