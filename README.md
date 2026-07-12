@@ -2,7 +2,8 @@
 
 ## Diagrama de clase  
 
-classDiagram
+
+```mermaid
     class MiPrimerModelo {
         -String nombre
         -String apellido
@@ -17,6 +18,7 @@ classDiagram
         +int getAñoNacimiento()
         +int getEdad()
     }
-
+```
+    
 ## Testing
 
