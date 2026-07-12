@@ -3,7 +3,7 @@
 ## Diagrama de clase  
 
 
-```mermaid
+```classDiagram
     class MiPrimerModelo {
         -String nombre
         -String apellido
