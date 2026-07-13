@@ -83,3 +83,5 @@ classDiagram
 ```
     
 ## Testing
+
+<img src="/miprimermodelo_simoneaa/src/assets/testing.jpg">
