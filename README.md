@@ -40,8 +40,8 @@ public class MiPrimerModelo {
     }
     
     private int calcularEdad() {
-        int anioActual = Year.now().getValue();
-        return anioActual - this.añoNacimiento;
+        int añoActual = Year.now().getValue();
+        return añoActual - this.añoNacimiento;
     }
     
     public String getNombre() {
