@@ -86,4 +86,4 @@ classDiagram
 
 <img src="/miprimermodelo_simoneaa/src/assets/testing.jpg">
 
-<img src="/miprimermodelo_simoneaa/src/assets/coverage.jpg">
+<img src="/miprimermodelo_simoneaa/src/assets/coverage.png">
